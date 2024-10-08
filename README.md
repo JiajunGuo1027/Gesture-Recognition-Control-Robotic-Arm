@@ -2,6 +2,8 @@
 
 This project integrates computer vision, network communication, and robotic control to remotely control an ABB robotic arm through hand gestures. The system uses Python for gesture recognition and communication, while RAPID controls the robotic arm. The architecture is modular, allowing for future expansion to control other robotic arms and more complex gestures.
 
+![Result](images/result.jpg)
+
 ## Features
 - **Gesture Recognition**: Real-time hand gesture detection using a camera.
 - **Network Communication**: Control signals are transmitted to the ABB robotic arm via TCP/IP.
